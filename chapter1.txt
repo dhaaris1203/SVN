@@ -1,0 +1,3 @@
+Everything we go through is for now, we have to still strong and laugh on it in future. 
+by doing "git init" we are creating a local repository in your computer.
+Working Directory >> Staging Area(this is the place where you ppick and choose the files in working Directory that you want to commit.)
